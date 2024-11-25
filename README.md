@@ -1,4 +1,4 @@
-![logo]([https://deepak-mygit.github.io/images/gitbanner.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftopresume.com%2Fcareer-advice%2Fsoftware-developer-job-description&psig=AOvVaw3sCdPi6qCiQh6zxCpQd3ix&ust=1732606034561000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDk5M769okDFQAAAAAdAAAAABAE))
+![logo](https://codaholic01.github.io/Image/543_378726_tech.hero.jpg)
 <h1 align="center">Hi 👋, I'm Shreekant Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
